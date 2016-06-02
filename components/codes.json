@@ -1,0 +1,1779 @@
+{
+  "titles":[
+    {
+      "no":1,
+      "title":"General Principles",
+      "chapters":[
+        {
+          "no":1,
+          "title":"Applicability",
+          "sections":[
+            {
+              "no":1,
+              "title":"No crime without law.",
+              "description":"There is no crime unless the act is defined and penalized by this Code or other laws at the time of commission. Criminal laws are prospective in application unless favorable to the accused"
+            },
+            {
+              "no":2,
+              "title":"Scope",
+              "description":"The Code shall apply to: ",
+              "scopes":[
+                {
+                  "title":"Territoriality",
+                  "items":[
+                    {
+                      "no":1,
+                      "text":"Crimes committed within the Philippines or against a government facility of the Philippines abroad, including its embassy, diplomatic or consular premises regardless of the location of the perpetrator or when the effects happen in these places;"
+                    },
+                    {
+                      "no":2,
+                      "text":"It also covers those committed in an aircraft, ship or vessel of Philippine registry or in an aircraft, ship or vessel originating from, passing through or destined for the Philippines;"
+                    }
+                  ]
+                },
+                {
+                  "title":"Protection",
+                  "items":[
+                    {
+                      "no":3,
+                      "text":"Crimes committed outside the Philippines against any Philippine citizen, or entity registered in the Philippines, if committed against national security or interest or punishable by level 4 or higher crime, unless punishable in the place where the crime is committed;"
+                    }
+                  ]
+                },
+                {
+                  "title":"Nationality",
+                  "items":[
+                    {
+                      "no":4,
+                      "text":"Crimes committed outside the Philippines by a Philippine citizen; and"
+                    }
+                  ]
+                },
+                {
+                  "title":"Universality",
+                  "items":[
+                    {
+                      "no":5,
+                      "text":"Crimes committed against humanity and the law of nations."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "no":3,
+              "title":"State duty. Principles of opportunity and legality",
+              "description":"The State has the primary duty to investigate and prosecute crimes and to impose penalties. The principle of legality shall apply when the penalty is level 4 and higher. The principle of opportunity shall apply at other levels."
+            },
+            {
+              "no":4,
+              "title":"National law and local law",
+              "description":"When a single act violates a national law and a local law, the national law shall prevail. The penalty beyond level 1 is imposable only by national laws. "
+            }
+          ]
+        },
+        {
+          "no":2,
+          "title":"Crimes in General",
+          "sections":[
+            {
+              "no":5,
+              "title":"Crime and punishment",
+              "description":"A crime is conduct defined and penalized under this Code or special penal laws."
+            },
+            {
+              "no":6,
+              "title":"Intent and Negligence",
+              "description":"Only intentional conduct is punishable. Negligent conduct is punishable only when specifically provided under this Code or other laws. "
+            },
+            {
+              "no":7,
+              "title":"Acts and crimes",
+              "description":"When a single act produces two or more crimes under this Code and other laws, or when a series of different acts on one occasion produce two or more crimes, or when a crime is a necessary means for committing another crime, the accused shall be charged in one indictment for all the crimes but may be convicted only for the crime proved with the highest penalty. The other crimes proved shall be considered as modifying circumstances."
+            },
+            {
+              "no":8,
+              "title":"Acts and victims",
+              "description":"Series of similar acts on the same occasion against one victim shall be charged as one crime. If there is more than one victim, the respondent shall be charged with as many crimes as there are victims."
+            },
+            {
+              "no":"9",
+              "title":"Acts and effects",
+              "description":"Series of similar acts on the same occasion against on e victim shall be charged as one crime. If there is more than one victim, the respondent shall be charged with as many crimes as there are victims."
+            },
+            {
+              "no":"10",
+              "title":"Minority",
+              "description":"A minor under 13 years do not incur criminal responsibility. A minor is a person under 18 years of age or those over 18 years of age but are unable to fully take care or protect themselves from abuse, neglect, cruelty, exploitation or discrimination because of a physical or mental disability or condition. A minor aged 13 but less than 18 years old who commits a crime shall be subjected to the appropriate proceedings, and if charged with a crime punishable by penalty within Level 5 shall be tried as an adult and, if convicted, liable to the penalty of imprisonment."
+            },
+            {
+              "no":"11",
+              "title":"Insanity",
+              "description":"An insane person does not incur criminal responsibility. Insanity is the total deprivation of the mental ability to appreciate the criminality of one’s conduct"
+            },
+            {
+              "no":"12",
+              "title":"Defense",
+              "description":"A person acting in self defense or in defense of another does not incur c riminal responsibility. Self defense is the proportionate action done in response to actual illegal attack."
+            },
+            {
+              "no":"13",
+              "title":"Lawful act",
+              "description":"A person who, while performing a lawful act with due care, causes an injury or damage does not incur criminal responsibili ty."
+            },
+            {
+              "no":"14",
+              "title":"Lawful order or authority",
+              "description":"A person acting under lawful order or authority does not incur criminal responsibility , unless such order or authority is clearly not for a lawful purpose ."
+            },
+            {
+              "no":"15",
+              "title":"Compulsion",
+              "description":"A person compelled to act by reason of fear, intimidation, force, threat or some lawful cause does not incur criminal responsibility"
+            },
+            {
+              "no":16,
+              "title":"Imminent harm",
+              "description":"A person who, acting to avoid an imminent harm, causes injury or damage does not incur criminal responsibility."
+            },
+            {
+              "no":17,
+              "title":"Persons responsible",
+              "description":"A person committing a crime is either a principal or an accessory. ",
+              "scopes":[
+                {
+                  "items":[
+                    {
+                      "no":1,
+                      "text":"Principals are persons who commit a crime personally or through another. Persons who agreed to commit a crime and commit it, regardless of the nature or extent of participation, shall be punished as principals."
+                    },
+                    {
+                      "no":2,
+                      "text":"Accessories are persons who aid, abet or assist a principal. "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "no":18,
+              "title":"Attempt",
+              "description":"An attempt to commit a crime shall be punishable only when provided by this Code or other special penal laws. "
+            },
+            {
+              "no":19,
+              "title":"Modifying circumstances",
+              "description":"The two kinds of modifying circumstances are aggravating circumstances and mitigating circumstances.",
+              "scopes":[
+                {
+                  "items":[
+                    {
+                      "no":1,
+                      "text":"An aggravating circumstance results in the imposition of the penalty within the higher duration of the penalty provided due to the presence of particular circumstances manifesting a greater criminal perversity of the accused as shown in the brutal and excessive manner or method which was consciously adopted to facilitate the commission of the crime; or the taking advantage of physical or mental disability or age to ensure impunity; or the flagrant disregard by the accused of special personal conditions of the victim; and other analogous circumstances. "
+                    },
+                    {
+                      "no":2,
+                      "text":"A mitigating circumstance results in the imposition of the penalty with in the lower duration of the penalty provided due to the presence of particular circumstances manifesting a lesser criminal perversity of the accused; or showing that he has a mental disability, or has acted under a diminished exercise of freedom of action, intelligence, or intent, or is suffering from a physical or mental defect that restricts his means of action, defense or communication; and other analogous circumstances. \n\nMental disability is any mental illness, medical condition or defect substantially decreasing the ability to appreciate the criminality of one’s conduct. \n\nA mitigating circumstance may also be appreciated in favor of the accused if he voluntarily surrenders to the police authorities or voluntarily pleads guilty before the presentation of the prosecution’s evidence in the criminal case filed against him."
+                    },
+                    {
+                      "no":3,
+                      "text":"The court shall consider the established facts in the appreciation of the modifying circumstances. "
+                    },
+
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "no":3,
+          "title":"Penalties in General",
+          "sections":[
+            {
+              "no":20,
+              "title":"Purpose of penalties",
+              "description":"Penalties are imposed for punishment, reformation and rehabilitation. "
+            },
+            {
+              "no":21,
+              "title":"Civil liability",
+              "description":"An accused convicted of a crime shall be held civilly liable for damages that have been proved. An accused acquitted of a crime by reasonable doubt may be held civilly liable where the evidence so warrants. "
+            },
+            {
+              "no":22,
+              "title":"Kinds of penalties",
+              "description":"The kinds of penalties are: ",
+              "scopes":[
+                {
+                  "items":[
+                    {
+                      "no":1,
+                      "text":"Imprisonment is the deprivation of liberty by judicial decree through commitment of the offender for a fixed duration to any correctional facility."
+                    },
+                    {
+                      "no":2,
+                      "text":"Fine is the fixed monetary sanction imposed by a judge based on the severity of the crime committed and the ability of the offender to pay. It is imposed either as a principal or alternative penalty for the commission of a crime. "
+                    },
+                    {
+                      "no":3,
+                      "text":"Community service is performance of unpaid work by an offender to compensate the injury inflicted to society by the crime committed. It shall be equivalent to the number of days of the offender’s average daily income. It may be imposed by the court, with the consent of the offender, as an alternative penalty to imprisonment, or for probation or parole."
+                    },
+                    {
+                      "no":4,
+                      "text":"Disqualification or suspension permanently or for the duration of the sentence - deprives the offender of public office, profession or employment, elective or appointive, and any similar office or employment."
+                    },
+                    {
+                      "no":5,
+                      "text":"Suspension of the right to vote or be voted for in any election."
+                    },
+                    {
+                      "no":6,
+                      "text":"Civil interdiction for the duration of the sentence imposed - deprives the offender of parental authority over children, guardianship rights, or the right to manage and dispose of property."
+                    },
+                    {
+                      "no":7,
+                      "text":"Forfeiture of benefits is the disqualification of the offender from receiving any portion or all of benefits."
+                    },
+                    {
+                      "no":8,
+                      "text":"Confiscation and forfeiture of proceeds and instruments of crime is integral to every penalty. Proceeds and instruments of a crime shall be confiscated in favor of the State unless they belong to a third party or are not subject of lawful commerce."
+                    },
+
+                  ]
+                }
+              ]
+            },
+            {
+              "no":23,
+              "title":"Imposable penalties",
+              "description":"The penalties which may be imposed under this Code are the following: ",
+              "penalties":[
+                {
+                  "type":"Principal Penalty",
+                  "penalties":[
+                    {
+                      "penalty":"Life imprisonment",
+                      "term":"Not less than 30 years and not more than 40 years, with or without parole + Fine equivalent to 500 to 1000 times (in multiples of one hundred) the average daily income"
+                    },
+                    {
+                      "penalty":"Level 5",
+                      "term":"More than 20 years to 30 years + Fine equivalent to 100 to 500 times (in multiples of one hundred) the average daily income"
+                    },
+                    {
+                      "penalty":"Level 4",
+                      "term":"More than 12 years to 20 years + Fine equivalent to 10 to 100 times (in multiples of ten) the average daily income"
+                    },
+                    {
+                      "penalty":"Level 3",
+                      "term":"More than six years to 12 years + Fine equivalent to 10 to 50 times (in multiples of ten) the average daily income"
+                    },
+                    {
+                      "penalty":"Level 2",
+                      "term":"More than one year to six years + Fine equivalent to 10 to 20 times (in multiples of five) the average daily income"
+                    },
+                    {
+                      "penalty":"Level 1",
+                      "term":"More than 10 days to one year + Fine equivalent to one to 10 times the average daily income OR Fine only"
+                    }
+                  ]
+                },
+                {
+                  "type":"Alternative Penalty",
+                  "penalties":[
+                    {
+                      "penalty":"Fine"
+                    },
+                    {
+                      "penalty":"Community service"
+                    }
+                  ]
+                },
+                {
+                  "type":"Accessory Penalty",
+                  "penalties":[
+                    {
+                      "penalty":"Disqualification or suspension"
+                    },
+                    {
+                      "penalty":"Suspension or right of suffrage"
+                    },
+                    {
+                      "penalty":"Civil interdiction"
+                    },
+                    {
+                      "penalty":"Forfeiture of benefits"
+                    },
+                    {
+                      "penalty":"Confiscation and forfeiture of proceeds and instruments of the crime"
+                    },
+
+                  ]
+                },
+                {
+                  "type":"Subsidiary Penalty",
+                  "penalties":[
+                    {
+                      "penalty":"Community service"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "no":24,
+              "title":"Imposition of penalties",
+              "description":"The imposition of penalties shall be guided by the following: ",
+              "scopes":[
+                {
+                  "items":[
+                    {
+                      "no":1,
+                      "text":"The court shall impose the principal penalty or alternative penalty and the accessory penalties, as applicable. "
+                    },
+                    {
+                      "no":2,
+                      "text":"Fine as a principal penalty or an alternative penalty shall be equivalent to a multiple of  the  average  daily  income  of  the  offender  but  in  no  case  lower  than  the  daily minimum  wage  of  the  place  where  the  crime  is  committed,  or  the  value  of  the property, in cases of property crimes. "
+                    },
+                    {
+                      "no":3,
+                      "text":"Subsidiary penalty of community service shall be imposed when the offender fails to pay the fine. "
+                    },
+                    {
+                      "no":4,
+                      "text":"The maximum of the prescribed level shall be imposed upon repeat offenders."
+                    },
+                    {
+                      "no":5,
+                      "text":"The  maximum  of  the  imposable  penalty  shall  be  imposed  upon  an  offender  who escapes from confinement."
+                    },
+                    {
+                      "no":6,
+                      "text":"robation may be availed of for Level 1 and 2 crimes. "
+                    },
+                    {
+                      "no":7,
+                      "text":"A  first  time  offender  of  a  Level  1  crime may render  community  service  upon application and approval of the Court. "
+                    },
+                    {
+                      "no":8,
+                      "text":"Community service may be included as one of the conditions for probation in Level 2 crimes. "
+                    },
+                    {
+                      "no":9,
+                      "text":"The duration of community service shall be equivalent to the prison term. "
+                    },
+                    {
+                      "no":10,
+                      "text":"The  object,  instrument  or  proceeds  of  the  crime  shall  be  destroyed,  confiscated  or forfeited. "
+                    },
+                    {
+                      "no":11,
+                      "text":"The court shall order the return of the property or its equivalent and indemnification as damages. "
+                    },
+
+                  ]
+                }
+              ]
+            },
+            {
+              "no":25,
+              "title":"Implementation of penalties",
+              "description":"The implementation of  penalties  shall  be guided by the following: ",
+              "scopes":[
+                {
+                  "items":[
+                    {
+                      "no":1,
+                      "text":"Service of sentence shall commence from the time the judgment becomes final."
+                    },
+                    {
+                      "no":2,
+                      "text":"Preventive detention shall be credited to the term of imprisonment imposed."
+                    },
+                    {
+                      "no":3,
+                      "text":"The sentence shall be suspended if the offender becomes insane"
+                    },
+                    {
+                      "no":4,
+                      "text":"The  penalty  of  two  or  more  imprisonment  terms  shall  be  served  successively,  but  in no case shall a person be imprisoned for more than 40 years. "
+                    },
+                    {
+                      "no":5,
+                      "text":"Upon  service  of  one-half  of  the  penalty  imposed,  the  convict  may  be  eligible  for parole."
+                    },
+
+                  ]
+                }
+              ]
+            },
+            {
+              "no":26,
+              "title":"Extinction of criminal responsibility",
+              "description":"Criminal responsibility is extinguished by: ",
+              "scopes":[
+                {
+                  "items":[
+                    {
+                      "no":1,
+                      "text":"Service of penalty"
+                    },
+                    {
+                      "no":2,
+                      "text":"Amnesty"
+                    },
+                    {
+                      "no":3,
+                      "text":"Absolute Pardon"
+                    },
+                    {
+                      "no":4,
+                      "text":"Prescription"
+                    },
+                    {
+                      "no":5,
+                      "text":"Amicable settlement - except  in  cases  of  crimes  against  the  State,  and  subject  to  the court's discretion and approval, considering all relevant circumstances of the case in the interest of justice and peace "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "no":27,
+              "title":"Diminution of criminal responsibility.",
+              "description":"Criminal responsibility is diminished by: ",
+              "scopes":[
+                {
+                  "items":[
+                    {
+                      "no":1,
+                      "text":"Conditional pardon"
+                    },
+                    {
+                      "no":2,
+                      "text":"Commutation of sentence"
+                    },
+                    {
+                      "no":3,
+                      "text":"Parole \n\nFurther,  an  inmate  may  be temporarily released  on  health  parole  if  found  to  be afflicted  with  contagious,  debilitating  or terminal  illness  or  disease  which  cannot  be treated in prison."
+                    },
+                    {
+                      "no":4,
+                      "text":"Probation"
+                    },
+
+                  ]
+                }
+              ]
+            },
+            {
+              "no":28,
+              "title":"Prescription of crimes",
+              "description":"The prescription of crimes shall be governed by the following rules: ",
+              "scopes":[
+                {
+                  "items":[
+                    {
+                      "no":1,
+                      "text":"Crimes punishable by life imprisonment do not prescribe. Level 5 crimes prescribe in 25  years.  Level  4  crimes  prescribe  in  15  years.  Level  3  crimes  prescribe  in  10  years. Level 2 crimes prescribe in five years. Level 1 crimes prescribe in one year."
+                    },
+                    {
+                      "no":2,
+                      "text":"The period of prescription shall run from the day the crime is committed or upon its discovery. "
+                    },
+                    {
+                      "no":3,
+                      "text":"The  period  of  prescription  shall  not  run  when  the  crime  is  under  any  formal proceedings or investigation and shall run again when the proceedings did not result in the filing of an information in court. "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "no":29,
+              "title":"Double jeopardy",
+              "description":"No person shall be twice put in jeopardy of punishment for the same crime. \n\nAn  appeal  from  a  dismissal  or  acquittal  of  a  level  4  crime  or  higher based  on  the  following grounds shall not constitute a second jeopardy: ",
+              "scopes":[
+                {
+                  "items":[
+                    {
+                      "no":1,
+                      "text":"when the State is denied due process;"
+                    },
+                    {
+                      "no":2,
+                      "text":"when the dismissal is based on outside evidentiary considerations, without the court passing upon the accused’s guilt or innocence; "
+                    },
+                    {
+                      "no":3,
+                      "text":"bias or prejudice stemming from an extrajudicial source."
+                    },
+
+                  ]
+                }
+              ]
+            },
+            {
+              "no":30,
+              "title":"Meaning of terms",
+              "description":"For  the  purpose  of  consistency  of  criminal  laws,  the following terms shall have their meanings: ",
+              "scopes":[
+                {
+                  "items":[
+                    {
+                      "no":1,
+                      "text":"Offended party – the State "
+                    },
+                    {
+                      "no":2,
+                      "text":"Victim - a  person  who  sustains  injury  or  damage  as  a  result  of  the  commission  of  a crime "
+                    },
+                    {
+                      "no":3,
+                      "text":"Respondent - a person under investigation for the commission of a crime "
+                    },
+                    {
+                      "no":4,
+                      "text":"Accused – a person charged in court with the commission of a crime "
+                    },
+                    {
+                      "no":5,
+                      "text":"Offender - a person who commits a crime "
+                    },
+                    {
+                      "no":6,
+                      "text":"Detainee - a person under detention before final judgment "
+                    },
+                    {
+                      "no":7,
+                      "text":"Detention facility – a place of confinement for detainees "
+                    },
+                    {
+                      "no":8,
+                      "text":"Judgment - an order or decision issued by a court which disposes a case "
+                    },
+                    {
+                      "no":9,
+                      "text":"Final judgment – a judgment that is no longer subject to appeal"
+                    },
+                    {
+                      "no":10,
+                      "text":"Penalty - the   punishment   for   the   commission   of   a   crime   which   includes imprisonment,   fine,  forfeiture,  damages   to  the offended  party   and   the   victims including restitution, reparation, indemnification, suspension or removal from office, disqualification from practice of profession or vocation, deprivation or curtailment of rights or privileges and community service"
+                    },
+                    {
+                      "no":11,
+                      "text":"Inmate – a person serving sentence of imprisonment "
+                    },
+                    {
+                      "no":12,
+                      "text":"Correctional facility – a place of confinement for inmates "
+                    },
+                    {
+                      "no":13,
+                      "text":"Prescription - the extinction of the right of the State to prosecute by lapse of time "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Crimes Against the State",
+      "chapters": [
+        {
+          "no": 1,
+          "title": "Crimes Against Existence of the State",
+          "sections": [
+            {
+              "no": 31,
+              "title": "Treason",
+              "description": "Any person who:", 
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "During  war  time,  renounces  his  allegiance  to  the  State  by  committing  acts  favoring the enemy, shall be punished with Life Imprisonment; "                    },
+                    {
+                      "no": "b",
+                      "text": "At  any  other  time,  renounces allegiance  to  the  State  by  performing  an  act  which places the State in imminent threat of foreign domination or makes it dependent on a foreign power, shall be punished within Level 5. "
+                    },
+                    {
+                      "no": "c",
+                      "text": "Gathers,  transmits,  distorts  or  loses  information  or  data  respecting the  national defense  to  the  injury of  the  State  or  to  the  advantage  of  any  group  or  foreign  nation whose purpose is to cause the State's downfall, shall be punished within Level 5. "
+                    },
+                    {
+                      "no": "d",
+                      "text": "Commits an act which provokes war or exposes Filipino citizens to reprisals on their persons  or  property  or  violates  regulations issued  by  the  Philippine  government  for the purpose of enforcing neutrality, shall be punished within Level 4.\n\nIf the offender is a public officer or employee, he shall be punished with the penalty one level higher than that provided."
+                    }
+                  ]
+                }
+              ] 
+            },
+            {
+              "no": 32,
+              "title": "Rebellion",
+              "description": "Rebellion consists  of  participating  in,  supporting,  or adhering  to an   armed   public   uprising   against   the   government   committed   under   the   following circumstances:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Causing the removal  of  the  Philippine  territory  or  any of  its part  from  the  allegiance to the Government or its laws shall be punished within Level 5; "
+                    },
+                    {
+                      "no": "b",
+                      "text": "Causing the  removal  of any branch  or  unit  of  the  armed  forces  or  other government security  forces  from  the  allegiance  to  the  Government  or  its  laws  shall  be  punished within Level 5; ",
+
+                    },
+                    {
+                      "no": "c",
+                      "text": "Depriving the   Chief   Executive,   wholly   or   partially,   of   any   of   his   powers   or prerogatives shall be punished within Level 5;"
+                    },
+                    {
+                      "no": "d",
+                      "text": "Without  taking  up  arms  or  being  in  open  hostility  against  the  Government,  inciting others to the execution of any act of rebellion shall be punished within Level 4.\n\nLife  imprisonment  shall  be  imposed  if  the  offender  in  paragraphs  a,  b,  and  c  is  a  public officer or employee."
+                    }
+                  ]
+
+                }
+              ]
+            },
+            {
+              "no": 33,
+              "title": "Coup d’etat",
+              "description": "Any  member  of  the  armed  forces  or  any  other  government security  forces  or  any  public  officer  or  employee,  with  or  without  civilian  support  or participation,  who  attacks,  threatens  or  intimidates  the  duly  constituted  authorities  of  the Republic   of   the   Philippines   or   attacks   installations,   utilities,   equipment,   facilities,   or establishments of vital national interest for the purpose of seizing or diminishing state power shall be punished with Life Imprisonment.\n\nAn attempt to commit coup d’etat shall be punished within Level 5."
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Crimes Affecting State Functions",
+          "sections": [
+            {
+              "no": 34,
+              "title": "Disrupting government  proceedings  and  preventing  attendance  in such  proceedings",
+              "description": "Any  person  who,  through force,  fraud, coercion  or  intimidation, prevents,  disturbs  or  interrupts  proceedings  of  government bodies  performing  legislative, quasi-legislative or quasi-judicial functions under the following circumstances:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Prevents,  disturbs or  interrupts  the  session  of  the  Congress of  the  Philippines or  the meeting   of   any   of   its   committees   or   subcommittees,   or   the   session   of   the Constitutional Commissions or committees or divisions thereof, or the session of the local legislative bodies shall be punished within Level 3;"
+                    },
+                    {
+                      "no": "b",
+                      "text": "Prevents  a  member  of  Congress  from  attending  its  Sessions  or  meetings  or  the hearings of any of its committees or subcommittees,  or from expressing his opinions or casting his vote shall be punished within Level 2;"
+                    },
+                    {
+                      "no": "c",
+                      "text": "Prevents  a  member  of the  constitutional  commissions or  its  committees  or  divisions from attending its Sessions, meetings, or hearings, or from expressing his opinions or casting his vote shall be punished within Level 3;"
+                    },
+                    {
+                      "no": "d",
+                      "text": "Being a public officer or employee, arrests or searches any member of Congress while in session shall be punished within Level 3."
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 35,
+              "title": "Assault upon authorities",
+              "description": "Any person who assaults a person in authority or his agent performing official functions, or any person coming to the aid of such authorities or their agents, shall be punished within Level 3.\n\nAny  person  who  incites  another  to  commit  the  crime  of  assault  as  defined  in  the  preceding paragraph shall be punished within Level 2."
+            },
+            {
+              "no": 36,
+              "title": "Disobedience to authorities",
+              "description": "Any person who willfully disobeys a person in authority  performing  official  functions  shall  be  punished  within  Level  1. When  the  act  of disobedience endangers life or property, the offender shall be punished within Level 2."
+            },
+            {
+              "no": 37,
+              "title": "Obstruction  of  justice",
+              "description": "Any  person  who  willfully  obstructs,  impedes, frustrates  or delays  the  apprehension  of  suspects  or  the  investigation  or  prosecution  of criminal cases, or intrudes in a crime scene shall be punished within Level 3.\n\nObstruction of justice may be typically committed under the following circumstances: ",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Preventing witnesses from testifying in any criminal investigation proceeding or from reporting the commission of any offense or the identity of any offender/s by means of bribery, misrepresentation, deceit, intimidation, force or threats;"
+                    },
+                    {
+                      "no": "b",
+                      "text": "Altering, erasing, destroying, suppressing or concealing any paper, record, document, or object, traces or prints, with intent to impair its verity, authenticity, legibility, availability, or admissibility as evidence in a crime scene or in any investigation of or official proceedings in, criminal cases, or to be used in the investigation of, or official proceedings in, criminal cases;"
+                    },
+                    {
+                      "no": "c",
+                      "text": "Harboring or concealing, or facilitating the escape of, any person he knows, or has reasonable ground to believe or suspect, has committed any offense under existing laws in order to prevent his arrest prosecution and conviction;"
+                    },
+                    {
+                      "no": "d",
+                      "text": "Using a false identity or falsified document for the purpose of concealing a crime, evading prosecution or the execution of a judgment, or concealing his true name and other personal circumstances for the same purpose or purposes;"
+                    },
+                    {
+                      "no": "e",
+                      "text": "Delaying the prosecution of criminal cases by obstructing the service of process or court  orders  or  disturbing  proceedings  in  the  National  Prosecution  Service, Ombudsman, or in the courts;"
+                    },
+                    {
+                      "no": "f",
+                      "text": "Making, presenting or using any record, document, paper or object with knowledge of its falsity and with intent to affect the course or outcome of the investigation of, or official proceedings in, criminal cases;"
+                    },
+                    {
+                      "no": "g",
+                      "text": "Soliciting, accepting, or agreeing to accept any benefit in consideration for abstaining from, discontinuing, or impeding the legal proceedings;"
+                    },
+                    {
+                      "no": "h",
+                      "text": "Threatening another, directly or indirectly, with the infliction of any wrong upon his person, honor or property or that of any immediate member or members of his family, or imposing a condition, whether lawful or unlawful, in order to prevent such person  from  appearing  in  the  investigation  of  or  official  proceedings  in  criminal cases; or"
+                    },
+                    {
+                      "no": "i",
+                      "text": "Giving false or fabricated information to mislead or prevent the law enforcement agencies from apprehending the offender or from protecting the life or property of the victim;  or  publishing  or  fabricating  information  from  the  data  gathered  in confidence by investigating authorities."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 38,
+              "title": "Facilitating  escape of  detainee  or  inmate",
+              "description": "Any  person  who  deliberately or through negligence removes, allows, or helps in the escape of any detainee or inmate shall be  punished  within  the  same  Level  imposable  upon  said  detainee  or  imposed  upon  said inmate.  This  crime,  when  committed  by  a  public  officer  or  employee  charged  directly  with the  custody  of  the  detainee  or  prisoner  shall  be  punished  within  the  next  higher  level  than that imposable upon the detainee or imposed upon the prisoner."
+            },
+            {
+              "no": 39,
+              "title": "Corruption",
+              "description": "Any public officer or employee, or any person in connivance with such public official or employee, who uses his public position for private interest or personal gain shall be punished within Level 4.\n\nThe following acts are punishable within Level 5:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Performing  or  agreeing  to  perform  an act  constituting  a  crime  in  connection with  the  performance  of  his  official  duties,  in  consideration  of  any  offer, promise,  gift  or  present  received,  personally  or  through  a  conduit  or  agent (mediator).    Any  person  who  offers  or promises or  gives  the  gifts  or  presents and  the  conduit  shall  also  suffer  the  same  penalty  as  the  public  officer  or employee."
+                    },
+                    {
+                      "no": "b",
+                      "text": "Agreeing  to  perform  or  refraining  from  performing  an  act  not  constituting  a crime   in   connection   with   the   performance   of   his   official   duties,   in consideration  of  any  offer,  promise,  gift  or  present  received,  personally  or through  a  conduit.    Any  person  who  offers  or  promises  or  gives  the  gifts  or presents  and  the  conduit  shall  also  suffer  the  same  penalty  as  the  public officer or employee."
+                    },
+                    {
+                      "no": "c",
+                      "text": "Persuading, inducing  or  influencing  another  public  officer  or  employee  to perform   an   act   constituting   a   violation   of   rules   and   regulations   duly promulgated  by  competent  authority  or  an  offense  in  connection  with  the official  duties  of  the  latter.  The  public  officer  who  allows  himself  to  be persuaded,  induced,  or  influenced  to  commit  such  violation  or  offense  shall suffer the same penalty."
+                    },
+                    {
+                      "no": "d",
+                      "text": "Directly   or   indirectly   requesting   or   receiving   any   gift,   present,   share, percentage, or benefit, for himself or for any other person, in connection with any  contract  or  transaction  between  the  Government  and  any  other  part, wherein  the  public  officer  in  his  official  capacity  has  to  intervene  under  the law."
+                    },
+                    {
+                      "no": "e",
+                      "text": "Directly   or   indirectly   requesting   or   receiving   any   gift,   present   or   other pecuniary or material benefit, for himself or for another, from any person for whom the public officer or employee, in any manner or capacity, has secured or  obtained,  or  will  secure  or  obtain,  any  Government  permit  or  license,  in consideration for the help given or to be given."
+                    },
+                    {
+                      "no": "f",
+                      "text": "Accepting or having any member of his family accept employment in a private enterprise which has  pending  official business  with  him  during  the  pendency thereof."
+                    },
+                    {
+                      "no": "g",
+                      "text": "Causing  any  undue  injury  to  any  party,  including  the  Government,  or  giving any  private  party  any  unwarranted  benefits,  advantage  or  preference  in  the discharge  of  his  official  functions  through  manifest  partiality,  evident  bad faith  or  gross  inexcusable  negligence.  This  provision  shall  also  apply  to officers and employees of offices or government corporations charged with the grant of licenses or permits or other concessions."
+                    },
+                    {
+                      "no": "h",
+                      "text": "Neglecting  or  refusing  to  act  on  any  matter  pending  before  him  for  the purpose of obtaining, directly or indirectly, from any person interested in the matter some pecuniary or material benefit or advantage, or for the purpose of favoring   his   own   interest   or   giving   undue   advantage   in   favor   of   or discriminating against any other interested party."
+                    },
+                    {
+                      "no": "i",
+                      "text": "Entering,  on  behalf  of  the  Government,  into  any  contract  or  transaction manifestly and grossly disadvantageous to the same, whether or not the public officer profited or will profit thereby."
+                    },
+                    {
+                      "no": "j",
+                      "text": "Directly  or  indirectly  having  financial  or  pecuniary  interest  in  any  business, contract or transaction in connection with which he intervenes or takes part in his official capacity, or in which he is prohibited by the Constitution or by any law from having any interest."
+                    },
+                    {
+                      "no": "k",
+                      "text": "Directly or indirectly performs acts to obtain interest in any transaction or act, for personal  gain,  requiring  the  approval  of  a  board,  panel  or  group of  which he is a member even if he votes against the same or does not participate in the action of the board, committee, panel or group, or the approval of his office.\n\nInterest  for  personal  gain  shall  be  presumed against  those  public  officers responsible  for  the  approval  of  manifestly  unlawful,  inequitable,  or  irregular transaction or acts by the board, panel or group to which they belong."
+                    },
+                    {
+                      "no": "l",
+                      "text": "Approving  or granting  any license,  permit,  franchise, concession,  privilege or benefit  in  favor  of  any  person  not  qualified  for  or  not  legally  entitled  to  such license,  permit,  franchise,  concession  privilege  or  advantage,  or  to  a  mere representative or dummy of one who is not qualified or entitled. "
+                    },
+                    {
+                      "no": "m",
+                      "text": "Divulging  valuable  information  of  a  confidential  character,  acquired  by  his office  or  by  him  on  account  of  his  official  position  for  a  consideration  to unauthorized   persons,   or   releasing   such   information   in   advance   of   its authorized release date."
+                    },
+                    {
+                      "no": "n",
+                      "text": "Receiving  any  personal  pecuniary  interest  in  any  specific  business  enterprise which  will  be  directly  and  particularly  favored  or  benefited  by  any  law  or resolution  authored  by  him,  previously  approved,  or  adopted  by  Congress, during the same term.\n\nThe  provision  of  this  section  shall  apply  to  Members  of  Congress  and  any other  public  officer  who  recommended  the  initiation  in  Congress  of  the enactment  or  adoption of  any law  or  resolution,  and  acquires  or  receives any such interest during the Member's incumbency.\n\nIt  shall  likewise  be  unlawful  for  such  member  of  Congress  or  other  public officer,  who,  having  such  interest  prior  to  the  approval  of  such  law  or resolution  authored  or  recommended  by  him,  continues  for  thirty  days  after such approval to retain such interest."
+                    },
+                    {
+                      "no": "o",
+                      "text": "Knowingly nominates or appoints to any public office any person lacking the legal qualifications therefor."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 40,
+              "title": "Malversation",
+              "description": "Any public officer who, by reason of the duties of his office, is accountable  for  public  funds  or  property  or  private  funds  or  property  under  the custody  of the law and shall take or misappropriate the same or shall consent, through abandonment or negligence, to  any  other  person's  taking  such  public  funds  or  property,  wholly  or  partially, shall be guilty of misappropriation of such funds or property and shall be punished:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Within  Level  3,  if  the  amount  involved  in  the  misappropriation  does  not  exceed  five hundred thousand pesos."
+                    },
+                    {
+                      "no": "b",
+                      "text": "Within Level 4, if the amount involved is more than five hundred thousand pesos but does not exceed five million pesos."
+                    },
+                    {
+                      "no": "c",
+                      "text": "Within Level 5, if the amount involved is more than five million pesos.\n\nAny administrator or depository of funds or property attached, seized or deposited by public authority,  even  if  such  property  belongs  to  a private  individual  shall  be  liable  under  this Section.\n\nThe  person  who  connives  with  the  accountable  public  officer  or  employee  also  commits malversation as defined in the preceding paragraphs.\n\nThe following shall be prima facie evidence of misappropriation:"
+                    },
+                    {
+                      "no": "i",
+                      "text": "Failure of a public officer to have duly forthcoming any public funds or property with which he is chargeable, upon demand by any duly authorized officer."
+                    },
+                    {
+                      "no": "ii",
+                      "text": "Failure of any public officer, upon retirement, resignation, or any other mode of separation from service to render accounts."
+                    },
+                    {
+                      "no": "iii",
+                      "text": "Failure  of  an  accountable  public  officer,  who  unlawfully  leaves  or  attempts  to leave the country without rendering accounts. "
+                    },
+                    {
+                      "no": "iv",
+                      "text": "Failure  of  a  public  officer,  under  obligation  to  deliver  Government  property  or make payment from Government funds in his possession, to make such delivery or payment."
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 41,
+              "title": "Technical malversation",
+              "description": "Any public officer who shall apply any public fund or property under his administration to any public use other than that for which such fund or property was appropriated by law or ordinance shall be penalized:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Within Level 2, if the amount involved does not exceed five hundred thousand pesos."
+                    },
+                    {
+                      "no": "b",
+                      "text": "Within Level 3, if the amount involved is more than five hundred thousand pesos but does not exceed five million pesos."
+                    },
+                    {
+                      "no": "c",
+                      "text": "Within Level 4, if the amount involved is more than five million pesos.\n\nThe person who connives with the public officer or employee in the illegal use of public funds or property is also liable under this section."
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 42,
+              "title": "Infidelity  in  the  custody  of  property  and  information",
+              "description": "Any  public officer  or  employee  entrusted  with  the  custody  of  documents,  information,  papers,  or property who: ",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Breaks the seal of papers or property sealed by proper authorities, or permits it to be broken, shall be punished within Level 3."
+                    },
+                    {
+                      "no": "b",
+                      "text": "Removes or destroys or conceals documents, information or papers to the damage of any person or public interest, shall be punished within Level 4."
+                    },
+                    {
+                      "no": "c",
+                      "text": "Opens   or   permits   to   be   opened,   without   proper   authority,   any   closed   papers, documents or property entrusted to his custody, shall be punished within Level 3."
+                    },
+                    {
+                      "no": "d",
+                      "text": "Knowingly  reveals  any  secret  known  to  him  by  reason  of  his  official  capacity  or wrongfully deliver papers or copies of papers of which he may have charge and which should not be published, shall be punished within Level 4."
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 43,
+              "title": "Arbitrary restraint",
+              "description": "Any public officer or employee who restrains or detains any person without legal grounds shall be punished within Level 3. \n\nInsanity  or  uncontrollably  violent  behavior  or  any  other  ailment  requiring  the  compulsory confinement of the patient in a hospital shall be considered legal ground for the detention of any person."
+            },
+            {
+              "no": 44,
+              "title": "Violation of custodial investigation rights",
+              "description": "Any arresting or investigating officer who fails to inform any person arrested, detained, or under custodial investigation of the following rights during custodial investigation shall be penalized within Level 1:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "The  right  to  be  informed  of  the  charge against him  in  a  language  known to  him  and understood by him;"
+                    },
+                    {
+                      "no": "b",
+                      "text": "The right to remain silent and that any statement he makes may be used against him;"
+                    },
+                    {
+                      "no": "c",
+                      "text": "The right to be informed that he may be assisted at all times by an independent and competent attorney, preferably of his own choice and that if he has no lawyer one will be provided to him if he cannot afford the services of a lawyer;"
+                    },
+                    {
+                      "no": "d",
+                      "text": "The  right  to  be  informed  that  whether  or  not  he  has  an  attorney  no  custodial investigation in any form shall be conducted except in the presence of his counsel or only after a valid waiver can be made;"
+                    },
+                    {
+                      "no": "e",
+                      "text": "The  right  to  be  informed  that  he  has  the  right  to  waive  any  of  these  rights  provided the  waiver  is  made freely and  voluntarily,  knowingly  and  intelligently,  and  that with respect to the waiver of his rights to a lawyer he must do so in writing in the presence of  counsel  otherwise  even  if  he  insists  on  his  waiver  and  chooses  to  speak  his confession is still inadmissible;"
+                    },
+                    {
+                      "no": "f",
+                      "text": "And  finally, the  right  to be  informed that  he may indicate in  any manner  and  at  any stage of the process that he does not wish to be questioned, and that when he makes that  indication,  he  may  not  be  interrogated  and  if  this has  been  commenced  it  must cease.    He  must  also  be  informed  that  if  there  was  an  initial  waiver  of  his  right  to remain silent he can invoke it at any time thereafter.\n\nThe  deliberate  refusal  of  an  arresting  or  investigating  officer  to  provide  a  competent  and independent  counsel  after  the  said  person  communicates  he  cannot  afford  one  shall  be penalizedwithin Level 2."
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 45,
+              "title": "Delay in turn over for inquest",
+              "description": "Any public officer or employee who fails to deliver any detainee,  lawfully arrested without the benefit of warrant of arrest, to the Office of the City or Provincial Prosecutor for the conduct of Inquest Proceedings within the period of: twenty-four (24) hours for crimes or crime punished within Levels 1, 2, and 3; and thirty-six  (36)  hours,  for  crimes  or  crime  punishable  within  Levels  4,  5,  and  Life  imprisonment, shall be penalized within Level 4. "
+            },
+            {
+              "no": 46,
+              "title": "Delaying release",
+              "description": "Any  public  officer  or employee  who  unduly  delays  the enforcement of a judicial or executive order or the service of notice of such order to release a detainee or an inmate shall be punished within Level 4."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Crimes Against State Interests",
+          "sections": [
+            {
+              "no": 47,
+              "title": "Complicity  in  an organized  crime  group",
+              "description": "Any  person  who  organizes, maintains,  utilizes,  or  is  a  known  member  of  an  organized  crime  group  shall  be  punished within Level 1 without prejudice to his being punished separately for crimes he may commit while acting as such.\n\nAn  organized  crime  group  is  an  association  of  persons  that  commits  crimes  for  purposes  of gain."
+            },
+            {
+              "no": 48,
+              "title": "Complicity in private armed group",
+              "description": "Any person who organizes, maintains, or  utilizes  a  private  armed  group  shall  be  punished  within  Level  5.    The  members  thereof shall  be  punished  within  Level  4  without  prejudice  to  their  being  punished  separately  for crimes they may commit while acting as such.\n\nA  private  armed  group  is  a  group  of  two  (2)  or  more  persons  with  legally  issued  or  illegally possessed firearm utilized for the purpose of advancing or protecting the political, economic interest or security of any person.\n\nThe  organization  and  maintenance  of  private  armed  group  shall  encompass  any  activity  in which  the  government  official  or  private  person  recruits  for  employment  to  operate  as  a private  security  force where:    (1)  in  the  case  of  government  official,  there  is  no  provision  in the plantilla of his office for the employment of such number of security personnel; (2) in the case  of  private  person,  his  occupation  or  profession  does  not  warrant  the  recruitment  and maintenance of security personnel."
+            },
+            {
+              "no": 49,
+              "title": "Illegal assemblies",
+              "description": "Any person conducting or attending a meeting, whether in  a  fixed  place  or  moving,  among  armed  persons  for  the  purpose  of  committing  acts punishable by penal statutes shall be punished within Level 3. \n\nAny  person  conducting  or  attending  a  meeting,  whether in  a  fixed  place  or  moving,  for  the purpose  of  inciting  the  audience  to  commit  treason,  rebellion,  or  coup  d'  etat  shall  be punished within Level 4. "
+            },
+            {
+              "no": 50,
+              "title": "Alarms",
+              "description": "Any person who commits any of the following acts shall be punished within Level 1: ",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Unlawfully  fighting  or  challenging  another  person  to  a  fight  where  such  fight  is causing disturbance of peace."
+                    },
+                    {
+                      "no": "b",
+                      "text": "Uttering words producing an immediate violent or disorderly reaction in public."
+                    },
+                    {
+                      "no": "c",
+                      "text": "Uttering    invectives    breaching    tranquility    or    causing    public    disturbance    or scandalizing the public or creating public disorder. "
+                    },
+                    {
+                      "no": "d",
+                      "text": "Uttering words in a public forum which encourages disobedience to the law or to duly constituted authorities or which praise or justify any act punishable by law."
+                    },
+                    {
+                      "no": "e",
+                      "text": "Willfully disturbing peace and order by maliciously producing discordant noises."
+                    },
+                    {
+                      "no": "f",
+                      "text": "Publicizing  or  causing  to  be  publicized  as  news  any  false  information,  knowing  it  to be  false,  which  may  cause  damage  to  the  interest  of  the  State  or  endanger  public order. "
+                    },
+                    {
+                      "no": "g",
+                      "text": "Lighting  a  firecracker  or  pyrotechnic  device  causing  alarm  among  other  persons  or producing danger in public.\n\nHowever,  discharging  of  firearms  and  the  use  of  explosives  causing  alarm  among other persons or producing danger in public shall be punished within Level 2. "
+                    },
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Crimes Against Persons",
+      "chapters": [
+        {
+          "no": 1,
+          "title": "Crimes Affecting Life and Involving Harm",
+          "sections": [
+            {
+              "no": 51,
+              "title": "Homicide",
+              "description": "Any  person  who  shall  kill  another  without  lawful  cause  and  not defined as murder shall be punished within level 4. (RPC Art. 249)\n\nAn attempt to commit homicide shall be punished within level 3. The same punishment shall be imposed if in the course of committing any unlawful act, a person is killed and the act is not considered as another crime under this Code or another law. (RPC, Art. 4)\n\nAny person who acts as an accessory to homicide shall be punished within level 2."
+            },
+            {
+              "no": 52,
+              "title": "Murder",
+              "description": "Any  person  who  shall  kill  another,  under  any  of  the  following circumstances shall be punished by life imprisonment: ",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "1",
+                      "text": "With evident premeditation; "
+                    },
+                    {
+                      "no": "2",
+                      "text": "Using means to weaken or avoid defense by the victim; "
+                    },
+                    {
+                      "no": "3",
+                      "text": "Taking advantage of superior strength; "
+                    },
+                    {
+                      "no": "4",
+                      "text": "Using a motor vehicle; "
+                    },
+                    {
+                      "no": "5",
+                      "text": "On occasion of fire, earthquake or any other calamity;"
+                    },
+                    {
+                      "no": "6",
+                      "text": "By  means  of  fire,  poison,  explosion,  shipwreck,  derailment  of  a  train,  stranding  of  a vessel, or fall of an aircraft;"
+                    },
+                    {
+                      "no": "7",
+                      "text": "The victim is the offender’s natural or legal father or mother or child or his spouse; "
+                    },
+                    {
+                      "no": "8",
+                      "text": "With cruelty by deliberately and inhumanly adding to the suffering of the victim;"
+                    },
+                    {
+                      "no": "9",
+                      "text": "For in consideration of prize, reward, promise or other base motives.\n\nAn attempt to commit murder shall be punished within level 4.\n\nAny person who acts as accessory to murder shall be punished within level 3. (RPC Art. 246, 248, 255)"
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 53,
+              "title": "Abortion",
+              "description": "Any  person  who  terminates  the  pregnancy  of  any  woman  after implantation  or  completion  of  nidation  with  violence  and  without  her  consent  shall  be punished  within  level  4.  If  the  termination  of  pregnancy  is  without  violence  and  with  her consent,  the  act  shall  be  punished  within  level  3.    Terminating  pregnancy  by  the  woman herself  or  her  parents  shall  be  punished  within  level  2.    The  termination  of  the pregnancy without violence by another person and without her consent shall be punished within level 2. \n\nAn attempt to commit abortion shall be punished within level 1.\n\nAny person who acts as an accessory to abortion shall be punished within level 1. (RPC 256, 257, 258)"
+            },
+            {
+              "no": 54,
+              "title": "Reckless  conduct  causing  death",
+              "description": "Any  person  who  causes  the  death  of another  through  reckless  imprudence  or  by  reason  of  inexcusable  lack  of  precaution  while performing a lawful act shall be punished within level 3. (RPC 365)"
+            },
+            {
+              "no": 55,
+              "title": "Rape",
+              "description": "55.1. Any person who: through force, threat, or intimidation; when the victim is deprived of reason  or  otherwise  unconscious;  by  means  of  fraudulent  machination  or  grave  abuse  of authority;  shall  commit  an  act  of  sexual  intercourse  or sexual  assault  upon  another  non-consenting  person,  by  having  his  penis  or  any  other  object  or  instrument  touch  or  inserted into the victim’s genital, anus or mouth; or when the victim is under twelve (12) years of age, shall be punished within level 5.\n\nAn attempt to commit rape under this sub-section shall be punished within level 3. \n\nAny  person  who  acts  as  accessory  to  rape  under  this  sub-section  shall  be  punished  within level 3. (RPC Art. 266-A, 266-B, 266-C).\n\n55.2.  Rape  committed  under  any  of  the  following  aggravating  circumstances  shall  be punished with life imprisonment:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "1",
+                      "text": "Whenever the rape is committed with the use of a deadly weapon or by two or more persons;"
+                    },
+                    {
+                      "no": "2",
+                      "text": "When by reason or on the occasion of the rape, the victim becomes insane;"
+                    },
+                    {
+                      "no": "3",
+                      "text": "When by reason or on the occasion of the rape, homicide is committed;"
+                    },
+                    {
+                      "no": "4",
+                      "text": "When  the  victim  is  under  eighteen  (18)  years  of  age  and  the  offender  is  a  parent, ascendant,  step-parent,  guardian,  relative  by  consanguinity  or  affinity  within  the third civil degree, or the common-law spouse of the parent of the victim; "
+                    },
+                    {
+                      "no": "5",
+                      "text": "When the victim is under the custody of the police or military authorities or any law enforcement or penal institution; "
+                    },
+                    {
+                      "no": "6",
+                      "text": "When the rape is committed in full view of the spouse, parent, any of the children or other relatives within the third civil degree of consanguinity;"
+                    },
+                    {
+                      "no": "7",
+                      "text": "When the victim is a religious engaged in legitimate religious vocation or calling and is  personally  known  to  be  such  by  the  offender  before  or  at  the  time  of  the commission of the crime; "
+                    },
+                    {
+                      "no": "8",
+                      "text": "When the victim is a child below seven (7) years old; "
+                    },
+                    {
+                      "no": "9",
+                      "text": "When  the  offender  knows  that  he  is  afflicted  with  the  Human  Immuno-Deficiency Virus (HIV) or Acquired Immune Deficiency Syndrome (AIDS) or any other sexually transmissible disease and the virus or disease is transmitted to the victim; "
+                    },
+                    {
+                      "no": "10",
+                      "text": "When  committed  by  any  member  of  the  Armed  Forces  of  the  Philippines  or  para-military  units  thereof  or  the  Philippine  National  Police  or  any  law  enforcement agency  or  penal  institution,  when  the  offender  took  advantage  of  his position  to facilitate the commission of the crime; "
+                    },
+                    {
+                      "no": "11",
+                      "text": "When  by  reason  or  on  the  occasion  of  the  rape,  the  victim  has  suffered  permanent physical mutilation or disability; "
+                    },
+                    {
+                      "no": "12",
+                      "text": "When the victim is pregnant at the time of the commission of the crime; and"
+                    },
+                    {
+                      "no": "13",
+                      "text": "When  the  victim  is  suffering  from  mental  disability,  emotional  disorder  and/or physical handicap at the time of the commission of the crime.\n\nAn attempt to commit rape under this sub-section shall be punished within level 4.\n\nAny  person  who  acts  as  accessory  to rape  under  this  sub-section  shall  be  punished  within level 4."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 56,
+              "title": "Molestation",
+              "description": "Any  person  who  shall  commit  an  act  that  subjects  or  exposes another  to  unwanted  or improper  sexual  advances  or  activity shall be  punished within  level 2.\n\nIf the victim is a child, the penalty shall be within level 3."
+            },
+            {
+              "no": 57,
+              "title": "Physical Assault",
+              "description": "Any  person  who  shall  physically  assault  another  without inflicting any physical injuries shall be punished within level 1.\n\nIf the assault shall result in physical injury, the penalty shall depend on the extent of injury caused, as follows: ",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "1",
+                      "text": "If  the  injury  incapacitates  the  victim  from  performing  his  usual  labor  or  requiring medical  attendance  for  a  period  not  exceeding  9  days,  the  penalty  shall  be  within level 1."
+                    },
+                    {
+                      "no": "2",
+                      "text": "If  the  injury  incapacitates  the  victim  from  performing  his  usual  labor  or  requiring medical  attendance  for  a  period  of  at  least  10  days  and  not  exceeding  30  days,  the penalty shall be within level 2."
+                    },
+                    {
+                      "no": "3",
+                      "text": "If  the  injury  causes  the  victim  to  lose  any  body  part  or  its  use, or  incapacitates  the victim  from performing his usual  labor or requiring  medical  attendance for  a period exceeding 30 days the penalty shall be within level 3."
+                    },
+                    {
+                      "no": "4",
+                      "text": "If  the  injury  causes  the  victim  to  become  insane,  imbecile  or  impotent,  the  penalty shall be within level 3.\n\nAny  person  who  acts  as  accessory to  assault  resulting  in  physical  injuries  shall  be  punished within level 1. (RPC Art. 262, 263, 264, 265 and 266)"
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 58,
+              "title": "Reckless conduct  resulting  to  injuries",
+              "description": "Any  person  who  causes  the physical   injuries   of   another   through   negligence   or   by   reason   of   inexcusable   lack   of precaution while performing a lawful act, shall be punished within level 2. (RPC 365)"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Crimes Against Liberty and Security",
+          "sections": [
+            {
+              "no": 59,
+              "title": "Kidnapping",
+              "description": "59.1. Any person who shall kidnap or detain another without lawful cause shall be punished within level 5.\n\nAn attempt to kidnap or detain under 59.1 shall be punished within level 4. \n\nAny person who acts as accessory to kidnapping under 59.1 shall be punished within level 4.\n\n59.2.Kidnapping   shall   be   punished   with   life   imprisonment   if   any   of   the   following circumstances is present:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "1",
+                      "text": "If  the  offender  demands  any  money  or  other  forms  of  consideration  to  end  the detention;"
+                    },
+                    {
+                      "no": "2",
+                      "text": "If the offender threatens to kill, injure or continue to detain another person to compel a  third  party,  namely:  a  State,  an  international  or  intergovernmental  organization,  a natural or juridical person, or groups of persons, to do or abstain from doing any act as an explicit or implicit condition for the release of the person detained;"
+                    },
+                    {
+                      "no": "3",
+                      "text": "If the victim is a minor, a woman or a person deprived of normal mental or physical abilities;"
+                    },
+                    {
+                      "no": "4",
+                      "text": "If the duration of the detention lasted for more than three days.\n\nAn attempt to commit kidnapping under 59.2 shall be punished within level 5.\n\nAny person who acts as accessory to kidnapping under 59.2 shall be punished within level 5. (RPC Art. 268, 342, 343, International Convention Against the Taking of Hostages)"
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 60,
+              "title": "Illegal arrest",
+              "description": "Any  person who  shall  arrest  another  without  a  warrant  of arrest or under circumstances not considered as lawful warrantless arrests shall be punished within level 3.  (RPC, 269)"
+            },
+            {
+              "no": 61,
+              "title": "Illegal search",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "1",
+                      "text": "Any   person   who   shall   obtain   a   search   warrant   without   just cause   or   with   a misrepresentation  as  to  any  of  the  elements  for  obtaining  a  search  warrant  for implementation, either by himself or through another, shall be punished within level 1."
+                    },
+                    {
+                      "no": "2",
+                      "text": "Any  person  who  legally obtains  a  search  warrant  but  exceeds  the  authority stated  in said warrant shall be punished within level 1."
+                    },
+                    {
+                      "no": "3",
+                      "text": "Any person who shall implement a search warrant and conduct a search and seizure without the presence of the lawful occupant of the premises searched or any member of his family, or in case of premises without any occupant without the presence of at least two witnesses residing in the locality, shall be punished within level 2. (RPC 129, 130)"
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 62,
+              "title": "Threats",
+              "description": "Any person who shall threaten another with the infliction of wrong or harm to the latter's person, family, honor or property, shall be punished under any of the following circumstances:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "1",
+                      "text": "If  the  threat  is  subject  to  a  condition  or  any  monetary  consideration,  if  carried  out amounts to a crime, or if done in writing or using another person, the penalty shall be within level 2; "
+                    },
+                    {
+                      "no": "2",
+                      "text": "Any person who threatens another to publish a libel against the latter or any member of the latter's family unless compensation in money or other valuable consideration is paid, shall be punished within level 3."
+                    },
+                    {
+                      "no": "3",
+                      "text": "If the  threat  is  done  using  a  weapon,  the  penalty  shall  be  within  level  1.  (RPC  254, 282, 283, 285, 356)"
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": "63",
+              "title": "Coercion",
+              "description": "Any  person  who  shall  compel  another  to  perform  an  act  or to render  service,  except  when  authorized  by  law,  or  prevent  another  from performing  an  act not  otherwise  prohibited  by  law  shall  be accordingly  punished  under  any  of  the  following circumstances:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "1",
+                      "text": "If  the  compulsion  of  service  is  not  a  single  occurrence,  and  the  period  of  the compulsion is for a continuous service perpetually or for a period of time, the penalty shall be within level 3."
+                    },
+                    {
+                      "no": "2",
+                      "text": "If  the  compulsion  is  done  by  means  of  violence,  or  consists  of  the  performance  of  a religious act or the prevention of its performance, the penalty shall be within level 2. "
+                    },
+                    {
+                      "no": "3",
+                      "text": "If the compulsion to render service is for the purpose of payment of a debt, monetary or otherwise, the penalty shall be within level 1. (RPC 272, 274, 286 and 287)"
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 64,
+              "title": "Trespassing",
+              "description": "Any  person  who,  not  being  authorized  by  law,  shall  enter  the premises  of  another without  permission  or  against  the  will  of  the  lawful  occupant  shall  be punished as follows:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "1",
+                      "text": "If  the  offender  is  a  public  officer who  is  not  authorized  by a  court order, the  penalty shall be within level 2."
+                    },
+                    {
+                      "no": "2",
+                      "text": "If the offender commits any act of force, violence or intimidation and the same does not amount to another crime, the penalty shall be within level 2."
+                    },
+                    {
+                      "no": "3",
+                      "text": "If  the  trespassing  is  committed  without  violence  and  intimidation,  the  penalty  shall be within level 1\n\nTrespassing  is  excused  when  the  entry  is  made  for  the  purpose  of  preventing  some  serious harm, or for the purpose of rendering some humanitarian service. (RPC 280, 281)."
+                    },
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Crimes Involving Marriage",
+          "sections": [
+            {
+              "no": 65,
+              "title": "Bigamy",
+              "description": "Any legally married person who shall contract another marriage shall be punished within level 3.  (RPC 349)"
+            },
+            {
+              "no": 66,
+              "title": "Infidelity",
+              "description": "Any  married  person  who  shall  have  any  sexual  act  with  a  person other than the spouse shall be punished within level 2. (RPC 333, 334)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Crimes Against Property",
+      "chapters": [
+        {
+          "no": 1,
+          "title": "Theft",
+          "sections": [
+            {
+              "no": 67,
+              "title": "Theft",
+              "description": "Any person who, with intent to gain, takes or appropriates any personal property belonging to another without the latter’s consent is punishable within Level 3, (provided that the amount or the value of the property stolen does not exceed PhP2 million. An additional  one  year  of  imprisonment  shall  be imposed  upon  the  offender  for  up  to  PhP1 million in excess of PhP2 million). \n\nPersonal  property  may  include  gas,  electricity,  software,  business,  services  and  electronic data. \n\nAny attempt shall be punishable within Level 2."
+            },
+            {
+              "no": 68,
+              "title": "Serious Theft",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "A serious case of theft, punishable within Level 4, occurs if the offender steals –\n\n(1) By  breaking  into  enclosed  premises  or  space  using  special,  extraordinary,  or violent   means,   disguise,   or   similar   method or   strategy;  by   exploiting   the helplessness of another person, a calamity, an accident, or a common danger; in a manner that puts the victim or his family in grave economic situation; or on a commercial basis;\n(2) Property dedicated to religious worship or veneration or from a church or space used  for  the  practice  of  religion;  anything  of  significance  to  science,  art  or history   or   technical   development;   stored   or   transmitted   electronic   data; electrical  energy;  firearm.  Explosive,  or  other  military  weapon;  or property protected by a sealed container or other protective equipment; or\n(3) With grave abuse of confidence."
+                    },
+                    {
+                      "no": "b",
+                      "text": "Except  in  case  of  firearm,  explosive,  or  other  military  weapon,  an  especially  serious case  shall  be  excluded  from  all cases under subsection  (a)  above if  the property is  of minor value."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 69,
+              "title": "Identity theft",
+              "description": "Any  person  who  shall,  through  any  means,  such  as search engines,  insider  attacks,  attacks  from  outside  (illegal  access  to  computer  systems,  Trojans, keyloggers,  spyware  and  other  malware)  or  through  the  use  of  phishing  and  or  other  social engineering  techniques, obtain  the  identity  information  of  another like name,  birth  date, current   address   or   previous   addresses,   email   accounts,   passwords   or   other   access credentials, without the latter’s consent and/or disposes such identity information, which includes the sale of such information to third persons shall be punished within Level 3.\n\nAn  attempt to  obtain, possess  or dispose  another person’s  identity  information  shall  be punishable by Level 2."
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Robbery",
+          "sections": [
+            {
+              "no": 70,
+              "title": "Robbery",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Any  person  who,  with  intent  to  gain,  takes  or  appropriates  personal  property belonging  to  another  with  force,  intimidation  or  violence shall  be  punished  within Level 4.\n\nWhen by means of violence against or intimidation of persons, the property taken consists of any real property or when real rights are usurped in real properties belonging to another, the offender shall be punished within Level 4 and fined from 50 to 100 percent of the gain which he obtained, but in no case not less than Php 50,000.00."
+                    },
+                    {
+                      "no": "b",
+                      "text": "Any  person  who  attempts  the  commission  of  these  crimes  shall  be  punished  within Level 3."
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "no": 71,
+              "title": "Serious robbery",
+              "description": "An  especially  serious  case  of  robbery,  punishable  within Level 5, occurs when the offender:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "carries  or uses  a  weapon  or  other dangerous  instrument  during  the  commission  of the offence, or during its commission (i) seriously  abuses another person physically; or (ii) places another person in danger of death;"
+                    },
+                    {
+                      "no": "b",
+                      "text": "takes  part, together  with  two  or more  armed  offenders,  in  the  commission of  the offence with violence against or intimidation of any person;\n\nWhen any of the arms used in the commission of the offense be an unlicensed firearm, it is presumed that such persons are highway robbers or brigands, and imposable penalty upon all offenders shall be the maximum of Level 4, without prejudice to the criminal liability for illegal possession of such unlicensed firearm. \n\nAn offender who is present at the commission of a theft with violence against or intimidation of any person shall be punished as principal of any of the assaults committed, unless it be shown that he attempted to prevent the same.\n\nAny  person  knowingly  and  in  any manner  aiding,  abetting or protecting a  band  of  brigands as  described  above,  or  giving  them  information  of the  movements  of  the  police  or  other Government  law  enforcers,  or  acquiring  or  receiving  the  property  taken  by  such  brigands shall be punishable within Level 4.\n\n"
+                    },
+                    {
+                      "no": "c",
+                      "text": "Unlawful destruction or damage of properties"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Unlawful destruction or damage of properties",
+          "sections": [
+            {
+              "no": 72,
+              "title": "Arson",
+              "description": "Any  person  who  sets  fire  or  burns  any  property  shall  be  punishable within Level 3. \n\nThe   penalty   imposed   in   the   succeeding   section   shall   be   imposed   when   the   arson   is perpetrated by a group of persons.\n\nIf by arson, death of a person results, the penalty shall be within Level 5."
+            },
+            {
+              "no": 73,
+              "title": "Serious arson",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Serious arson occurs if the offender burns: \n\nOne  or  more  buildings or  edifices,  consequent  to  one  single  act  of burning,  or  as  a  result of simultaneous burnings;\n\n(1) Any   building   devoted   to   public   utilities,   or   of   inflammable   or   explosive materials, or of public or private ownership, devoted to the public in general;\n(2) Any  mode  of  transportation  or  conveyance  for  public  use,  entertainment  or leisure;\n(3) Any building to conceal or destroy evidence of a crime, or to conceal bankruptcy or to commit fraud."
+                    },
+                    {
+                      "no": "b",
+                      "text": "Serious arson shall be penalized within Level 5."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 74, 
+              "title": "Damage to property",
+              "description": "Any  person  who  damages  the  property  of  another, including but not limited to altering, deleting, suppressing or rendering unusable data that is stored or transmitted electronically or in some other similar way shall be punishable within Level 2."
+            },
+            {
+              "no": 75,
+              "title": "Serious damage to property.",
+              "description": "Serious damage to property occurs when the offender:",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Causes   damage   to   obstruct   the   performance   of   public   functions,   or   uses   any poisonous  or  corrosive  substance,  or  spreads  any  infection  or  contagion  among poultry and livestock;"
+                    },
+                    {
+                      "no": "b",
+                      "text": "Causes  damage  to  the  property  of  the  National  Museum  or  National Library,  any archive or registry, or any property for public use or enjoyment;"
+                    },
+                    {
+                      "no": "c",
+                      "text": "Unlawfully  explores,  excavates,  demolishes  or  digs  on  archeological  or  historical sites,  world  heritage  sites,  government  historical  buildings,  shrines,  landmarks, monuments and sites;"
+                    },
+                    {
+                      "no": "d",
+                      "text": "Damages any waterworks, public or railway transport, or telecommunication utilities;"
+                    },
+                    {
+                      "no": "e",
+                      "text": "Directly  or  indirectly  cuts,  gathers,  removes  or  smuggles  timber,  or  other  forest products, either from any of the public timber or other forest products in violation of existing laws, rules, and regulations; "
+                    },
+                    {
+                      "no": "f",
+                      "text": "Damages electronic data by-\ni. Interfering with data processing operations; or\nii. Causing major financial loss, acting on a commercial basis, or as a member of a gang  or  legal  entity  the  purpose  of  which  is  the  commercial  commission  of computer sabotage. \n\nIn serious cases of damage to property, the penalty shall be within Level 3. \n\nIf the damage shall result in any derailment of cars or trains, collision or other accident, the penalty to be imposed shall be within Level 4.\n\nThe  electric  wires,  traction  cables,  cellular  sites,  towers,  signal  system  and  other  things pertaining to railways and mobile communications shall be deemed to constitute an integral part of a railway and telecommunications system."
+                    },
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Fraud",
+          "sections": [
+            {
+              "no": 76,
+              "title": "Fraud",
+              "description": "Any  person  who  intentionally  or  deliberately  misrepresents,  alters  or conceals the truth, with or without the use of a devise, scheme, or artifice, to induce another to rely on it to part with money, anything of value or to surrender a legal or property right or any material benefit shall liable for fraud and shall suffer the penalty of imprisonment within Level  2  and  fine. Devise” is an invention, contrivance, or a result of a plan, ploy or design. “Scheme” is a design or plan formed to accomplish a purpose, while “artifice” is an ingenious contrivance or plan of some kind. Fraud typically occurs when the offender-",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Having sufficient funds in or credit with a drawee bank when he makes or draws and issues  a  check,  shall  fail  to  keep  sufficient  funds  or  to  maintain  a  credit  to  cover  the full amount of the check if presented within 90 days from the date appearing on the check, for which reason it is dishonoured;"
+                    },
+                    {
+                      "no": "b",
+                      "text": "Damages  the  property  of  another  by  influencing  the  result  of  a  data  processing operation   through   incorrect   configuration   of   a   program,   use   of   incorrect   or incomplete  data,  unauthorized  use  of data  or  other  unauthorized  influence  on  the course  of  the  processing  or  writes  a  computer  program  for  material  benefit,  or procures them for himself or another, offers them for sale, or holds or supplies them to another for illegal purposes;"
+                    },
+                    {
+                      "no": "c",
+                      "text": "Damages, destroys,  impairs  the  usefulness  of,  disposes  of  or  supplies  to  another  an object which is insured against destruction, damage, impairment of use, loss or theft in order to obtain for himself or a third party a payment from the insurance; or"
+                    },
+                    {
+                      "no": "d",
+                      "text": "Assumes  a  false identity;  or  falsely pretends – (i)  to have particular  qualifications  of another;  or  (ii)  to  have,  or  to  be  entitled  to  act  in,  a  particular  capacity  by  making  a false  pretense  to  the  damage  of  another.  A  person  assumes  a  false  identity  if  the person  pretends  to  be,  or  passes  himself  or  herself  off  as,  some  other  person.  The other person may be living or dead; real or fictional; natural or corporate."
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 77,
+              "title": "Serious Fraud",
+              "description": "A  serious  case  of  fraud  shall  be  punishable  within  Level  3  if the offender -",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "a",
+                      "text": "Abuses his powers or his position as a public official; "
+                    },
+                    {
+                      "no": "b",
+                      "text": "Causes a major financial loss to a large number of persons, particularly the poor, the oppressed  and  the  marginalized,  or  puts  them  in  danger  of  financial  loss  by  the continued   commission   of   fraud;   places   another   person   in   financial   hardship; defrauds a bank or banking institution;"
+                    },
+                    {
+                      "no": "c",
+                      "text": "Acts  on  a  commercial  basis  or  as  a  member  of  a  gang  or  legal  entity  the  purpose  of which  is  the  continued  commission  of  forgery,  counterfeiting  or  fraud;  perpetrates fraud  against  a  government,  its  processes,  obligations  and  securities,  or  accountable documents; undermines judicial or official proceedings, or when the fraud or falsity is made before a competent person authorized to administer an oath or affirmation."
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 78,
+              "title": "Fraud  against  civil  status",
+              "description": "Any  person  who  shall  damage  or  destroy  the status of another shall be punished within Level 3.\n\nAny  person  who  shall  usurp  the  civil  status  of  another,  should  he  do  so  for  the  purpose  of defrauding  the  victim  or  his  heirs  shall  be  punished  within  Level  3;  otherwise,  the  penalty within Level 2 shall be imposed. (Sec. 169, German Code, RPC 348)"
+            }
+          ]
+        },
+        {
+          "no": 5,
+          "title": "Breach or Abuse of Trust",
+          "sections": [
+            {
+              "no": 79,
+              "title": "Breach or abuse of trust",
+              "description": "Any person who misappropriates or converts, to the prejudice of another, any asset, money, goods, or any other personal property received by the offender in trust or on commission, or for administration, or under any other obligation involving the duty to deliver or to return the same, even though such obligation be totally or partially  guaranteed  by a  bond;  or  by  denying  having  received  such  money,  goods,  or  other property  shall  be  liable  to  imprisonment  within  Level  3.  Any  person  who  abuses  the  power accorded him by statute, by commission of a public authority or legal transaction to dispose of  assets  of  another  or  to  make  binding  agreements  for  another,  or  violates  his  duty  to safeguard  the  property  interests  of  another  incumbent  upon  him  by  reason  of  statute, commission  of  a  public  authority,  legal  transaction  or  fiduciary  relationship,  and  thereby causes  damage  to  the  person,  whose  property  interests  he  was  responsible  for  shall  also  be penalized under this section. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Final Provisions",
+      "chapters": [
+        {
+          "no": 0,
+          "sections": [
+            {
+              "no": 80,
+              "title": "Transitory provisions",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "1",
+                      "text": "The penalty of death and of imprisonment established in the Revised Penal Code shall have the equivalent penalty of imprisonment in this Code as follows: ",
+                      "columns": [
+                        {
+                          "col1": "Death",
+                          "col2": "Life imprisonment"
+                        },
+                        {
+                          "col1": "Reclusion perpetua",
+                          "col2": "More than 20 years to 30 years"
+                        },
+                        {
+                          "col1": "Reclusion temporal",
+                          "col2": "More than 10 to 20 years"
+                        },
+                        {
+                          "col1": "Prision mayor",
+                          "col2": "More than 5 years to 10 years"
+                        },
+                        {
+                          "col1": "Prision correcional medium to Prision correcional maximum",
+                          "col2": "More than 1 year to 5 years"
+                        },
+                        {
+                          "col1": "Aresto menor to prision correcional",
+                          "col2": "More than 10 days to 1 year minimum"
+                        },
+                      ]
+                    },
+                    {
+                      "no": 2,
+                      "text": "The  penalty  of  fine  established  in  the  Revised  Penal  Code,  whether  imposed  as  a single  or  as  an  alternative  penalty,  shall  be  replaced  with  the  schedule  of  fines established  in the  table  of  penalties  under  this  Code and  shall  have  the  equivalent penalty  set out  below, whether  to be  imposed  as an  additional  penalty  or alternative penalty: ",
+                      "columns": [
+                        {
+                          "col1": "Fines under Revised Penal Code",
+                          "col2": "Equivalent under the Code"
+                        },
+                        {
+                          "col1": "More than P48,000",
+                          "col2": "Level life imprisonment fine"
+                        },
+                        {
+                          "col1": "More than P24,000 to P48,000",
+                          "col2": "Level 5 fine"
+                        },
+                        {
+                          "col1": "More than P12,000 to P24,000",
+                          "col2": "Level 4 fine"
+                        },
+                        {
+                          "col1": "More than P6,000 to P12,000",
+                          "col2": "Level 3 fine"
+                        },
+                        {
+                          "col1": "P200 to P6,000",
+                          "col2": "Level 2 fine"
+                        },
+                        {
+                          "col1": "Less than P200",
+                          "col2": "Level 1 fine"
+                        },
+                      ]
+                    },
+                    {
+                      "no": 3,
+                      "text": "Upon  the  effectivity  of  this  Code,  the  penalties  for  the  crimes  defined  and  penalized under Book 2 shall be the corresponding penalties provided in paragraphs above. "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 81,
+              "title": "Laws repealed",
+              "description": "The following laws are repealed: ",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "1",
+                      "text": "Revised Penal Code (Act No. 3815, as amended)"
+                    },
+                    {
+                      "no": "2",
+                      "text": "Indeterminate Sentence Law (Act No. 4103, as amended) "
+                    },
+                    {
+                      "no": "3",
+                      "text": "Probation Law of 1976 (Presidential Decree No. 968, as amended) "
+                    },
+                    {
+                      "no": "4",
+                      "text": "An Act Providing for Enforcement of Conditions of Pardon (Act No. 1524) "
+                    },
+                    {
+                      "no": "5",
+                      "text": " An Act to Establish Periods of Prescription for Violations Penalized by Special Acts and Municipal Ordinances and to Provide When Prescription Shall Begin to Run (Act No. 3326) "
+                    },
+                    {
+                      "no": "6",
+                      "text": "Death Penalty Law (Republic Act No. 7659)"
+                    },
+                    {
+                      "no": "7",
+                      "text": "Act Designating Death by Lethal Injection (Republic Act No. 8177)"
+                    },
+                    {
+                      "no": "8",
+                      "text": "Article 192, Child and Youth Welfare Code (Presidential Decree No. 603) "
+                    },
+                    {
+                      "no": "9",
+                      "text": "Section 66, Comprehensive Dangerous Drugs Act of 2002 (Republic Act No. 9165) "
+                    },
+                    {
+                      "no": "10",
+                      "text": "Sections 6, 7 and 20 of Republic Act No. 9344 – Juvenile Justice Welfare Act of 2006 "
+                    },
+                    {
+                      "no": "11",
+                      "text": "Section 66 of Republic Act No. 9165 - Comprehensive Dangerous Drugs Act of 2002 "
+                    },
+                    {
+                      "no": "12",
+                      "text": "Section 5 of Republic Act No. 9372 - Human Security Act of 2007 "
+                    },
+                    {
+                      "no": "13",
+                      "text": "Section 27 of Republic Act No. 9745 - Anti-Torture Act 0f 2009 "
+                    },
+                    {
+                      "no": "14",
+                      "text": "Republic Act No. 10159 - An Act Amending Article 39 of Act No. 3815, as Amended "
+                    },
+                    {
+                      "no": "15",
+                      "text": "Section 12 Republic Act No. 8484 - Access Devices Regulation Act of 1998 "
+                    },
+                    {
+                      "no": "16",
+                      "text": "Commonwealth  Act  217 - Act  Amending  Articles  61,  70  and  71  of  the  Revised  Penal Code\n\nAll  other  laws  and  issuances  not  consistent  with  the  provisions  of  this  Code  are  hereby repealed."
+                    },
+                  ]
+                }
+              ]
+            },
+            {
+              "no": 82,
+              "title": "Continuing research",
+              "description": "A  Criminal  Justice  Policy  and  Research  Center  is created under the Department of Justice as the national criminal policy and research center with the following functions: ",
+              "scopes": [
+                {
+                  "items": [
+                    {
+                      "no": "1",
+                      "text": "Serves  as  the  primary research  arm  of  the  government  in  evaluating  and  advocating for reforms in the framework and philosophy of the criminal justice system;"
+                    },
+                    {
+                      "no": "2",
+                      "text": "Provides analysis, evaluation and assistance to criminal justice agencies; "
+                    },
+                    {
+                      "no": "3",
+                      "text": "Adopts simple, modern and inter-disciplinary, holistic and systems approach; "
+                    },
+                    {
+                      "no": "4",
+                      "text": "Employs  both  empirical  and  theoretical  methods  to  address  gaps  in  statistical  data, working definitions and common usage fields in the criminal justice system; "
+                    },
+                    {
+                      "no": "5",
+                      "text": "Simplifies    processes    and    develop    systems    to    improve    the    governance    and administration of the criminal justice system; and "
+                    },
+                    {
+                      "no": "6",
+                      "text": "Provides  for  guidelines  in  the  implementation  of  this  Code  during  the  transitory stage. "
+                    },
+                  ]
+                }
+              ]
+            },
+            ,
+            {
+              "no": 83,
+              "title": "Separability",
+              "description": "If  any  portion  of  this  Code, or  its  application  to any  person  or circumstance,   is   declared   unconstitutional,   the   remaining   unaffected   portions   or   the application of  such portion  to other persons  or  circumstances  shall  remain  in  full  force and effect. "
+            },
+            {
+              "no": 84,
+              "title": "Effectivity",
+              "description": "This  Criminal  Code  shall  take effect  on  01  January  2016  after publication in a newspaper of general circulation and posting in two (2) public websites."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
